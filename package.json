@@ -1,7 +1,7 @@
 {
   "name": "cordovahook-run-grunt",
   "description": "Run GruntJS tasks from your hooks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/mihhail-lapushkin/cordovahook-run-grunt",
   "author": {
     "name": "Mihhail Lapushkin",
