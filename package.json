@@ -1,0 +1,33 @@
+{
+  "name": "cordovahook-run-grunt",
+  "description": "Run GruntJS tasks from your hooks",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mihhail-lapushkin/cordovahook-run-grunt",
+  "author": {
+    "name": "Mihhail Lapushkin",
+    "email": "miha@smail.ee",
+    "url": "http://www.linkedin.com/in/mihhail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mihhail-lapushkin/cordovahook-run-grunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mihhail-lapushkin/cordovahook-run-grunt/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/mihhail-lapushkin/cordovahook-run-grunt/blob/master/LICENSE-MIT"
+  }],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "cordovahook",
+    "cordova",
+    "grunt",
+    "gruntjs"
+  ]
+}

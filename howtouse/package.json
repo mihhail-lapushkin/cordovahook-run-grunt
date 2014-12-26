@@ -1,0 +1,11 @@
+{ 
+  "private": true,
+  
+  "dependencies": {
+    "cordovahook-run-grunt": "latest",
+    
+    "gruntModule1": "version",
+    "gruntModule2": "version",
+    "...": "version"
+  }
+}
